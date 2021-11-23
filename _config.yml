@@ -284,8 +284,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      sidebar: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: "Table of Contents"
+      sidebar:
+        nav: "docs"
