@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Site Author - bio"
   location         : "Site Author - location"
-  email            : "Site Author - email"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -277,6 +277,7 @@ compress_html:
 
 # Defaults
 defaults:
+  sidebar: true
   # _posts
   - scope:
       path: ""
