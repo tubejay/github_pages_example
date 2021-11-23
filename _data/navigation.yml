@@ -6,9 +6,9 @@ main:
     
 nav_side:
   - title: Categories
-    url: /categories
+    url: /categories/
     children:
       - title: cat_A
-        url: /categories/cat_A
+        url: /categories/cat_A/
       - title: cat_B
-        url: /categories/cat_B
+        url: /categories/cat_B/
