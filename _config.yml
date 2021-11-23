@@ -277,8 +277,6 @@ compress_html:
 
 # Defaults
 defaults:
-  values:
-    sidebar: true
   # _posts
   - scope:
       path: ""
@@ -290,3 +288,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar: true
