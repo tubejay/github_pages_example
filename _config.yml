@@ -283,13 +283,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       share: false
       related: false
       show_date: true
-      toc: true
+      toc: false
       toc_sticky: true
       toc_label: "Table of Contents"
       sidebar:
