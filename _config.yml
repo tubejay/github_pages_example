@@ -297,5 +297,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+      toc: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
+      author_profile: true
       toc: false
       
