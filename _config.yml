@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Site Settings - title"
 title_separator          : "-"
-subtitle                 "Site Settings - subtitle" # site tagline that appears below site title in masthead
+subtitle                 : "Site Settings - subtitle" # site tagline that appears below site title in masthead
 name                     : "Site Settings - name"
 description              : "Site Settings - description"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
