@@ -1,8 +1,12 @@
 main:
   - title: Home
     url: /
+  - title: Categories
+    url: /categories/
   - title: GitHub
     url: https://github.com/
+    
+    
     
 nav_side:
   - title: Categories
@@ -12,4 +16,5 @@ nav_side:
         url: /categories/cat_A/
       - title: cat_B
         url: /categories/cat_B/
+
 
