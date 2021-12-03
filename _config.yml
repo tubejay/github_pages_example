@@ -288,6 +288,7 @@ defaults:
       show_date: false
       toc_sticky: true
       toc_label: "Table of Contents"
+      toc_icon: list-alt
       sidebar:
         nav: nav_side
   # _posts
