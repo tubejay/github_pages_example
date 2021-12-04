@@ -21,12 +21,12 @@ $masthead-link-color-hover  : orangered;
 
 
 
-$base00: #1d1f21; // base00 - Default Background
-$base01: #282a2e; // base01 - Lighter Background (Used for status bars, line number and folding marks)
-$base02: #3b3e44; // base02 - Selection Background
+$base00: black; // base00 - Default Background
+$base01: cyan; // base01 - Lighter Background (Used for status bars, line number and folding marks)
+$base02: gray; // base02 - Selection Background
 $base03: #999999; // base03 - Comments, Invisibles, Line Highlighting
 $base04: #999999; // base04 - Dark Foreground (Used for status bars)
-$base05: #ffffff; // base05 - Default Foreground, Caret, Delimiters, Operators
+$base05: blue;    // #ffffff; // base05 - Default Foreground, Caret, Delimiters, Operators
 $base06: #ffffff; // base06 - Light Foreground (Not often used)
 $base07: #ffffff; // base07 - Light Background (Not often used)
 
