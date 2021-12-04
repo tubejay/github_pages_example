@@ -3,32 +3,32 @@
 ---
 
 
-$body-color                 : aqua;
-$background-color           : burlywood;
-$footer-background-color    : black;
 
-$border-color               : brown;
+$background-color           : aliceblue;
+$footer-background-color    : darkred;
+
+$border-color               : darkred;
 
 $text-color                 : black;
 $muted-text-color           : darkslategray;
 
 $link-color                 : mediumblue;
-$link-color-hover           : mediumspringgreen;
+$link-color-hover           : deepskyblue;
 $link-color-visited         : darkred;
 
-$masthead-link-color        : royalblue;
+$masthead-link-color        : saddlebrown;
 $masthead-link-color-hover  : orangered;
 
 
 
 $base00: black; // base00 - Default Background
-$base01: cyan; // base01 - Lighter Background (Used for status bars, line number and folding marks)
+$base01: black; // base01 - Lighter Background (Used for status bars, line number and folding marks)
 $base02: gray; // base02 - Selection Background
-$base03: cornsilk; // base03 - Comments, Invisibles, Line Highlighting
-$base04: lightyellow; // base04 - Dark Foreground (Used for status bars)
-$base05: white;    // #ffffff; // base05 - Default Foreground, Caret, Delimiters, Operators
-$base06: maroon; // base06 - Light Foreground (Not often used)
-$base07: magenta; // base07 - Light Background (Not often used)
+$base03: yellow; // base03 - Comments, Invisibles, Line Highlighting
+$base04: yellow; // base04 - Dark Foreground (Used for status bars)
+$base05: white; // base05 - Default Foreground, Caret, Delimiters, Operators
+$base06: white; // base06 - Light Foreground (Not often used)
+$base07: white; // base07 - Light Background (Not often used)
 
 $base08: #009900; // base08 - Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
 $base09: #ff9933; // base09 - Integers, Boolean, Constants, XML Attributes, Markup Link Url
