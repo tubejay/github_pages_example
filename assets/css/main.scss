@@ -20,24 +20,26 @@ $masthead-link-color-hover  : deepskyblue;
 
 
 
-$base00: gray;//white;           // background
-$base04: crimson;         // line number, comment
+$base00: white;           // background
 $base05: black;           // foreground
-$base08: forestgreen;     // 
-$base09: darkorange;      // integer, boolean
-$base0a: purple;          // class
+
+$base0c: purple;          // import, tag
+$base0e: forestgreen;     // keyword
+
+$base04: darkgreen;       // line number, comment
+$base09: orangered;       // integer
 $base0b: darkred;         // string
-$base0c: darkgreen;       // 
-$base0d: navy;            // function, method
-$base0e: indigo;          // keyword
 
+$base0a: crimson;         // class
+$base0d: mediumblue;      // function, method
 
-$base01: cyan;            //
-$base02: yellow;          //
-$base03: cyan;            //
-$base06: yellow;          //
-$base07: cyan;            //
-$base0f: yellow;          //
+// $base01: ;
+// $base02: ;
+// $base03: ;
+// $base06: ;
+// $base07: ;
+// $base08: ;
+// $base0f: ;
 
 
 
