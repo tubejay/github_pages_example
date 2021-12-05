@@ -43,6 +43,12 @@ $base0d: mediumblue;      // function, method
 
 
 
+$serif      : Georgia
+$sans-serif : "IBM Plex Mono"
+$monospace  : Consolas
+
+
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
