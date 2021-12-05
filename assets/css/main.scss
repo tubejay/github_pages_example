@@ -47,8 +47,8 @@ $serif      : Georgia;
 $sans-serif : Roboto;
 $monospace  : "IBM Plex Mono", Consolas;
 
-$global-font-family : $sans-serif;
-$header-font-family : $sans-serif;
+$global-font-family : $serif;
+$header-font-family : $serif;
 
 
 
@@ -72,7 +72,4 @@ $type-size-8 : 0.40em;
 
 .highlight{
   font-family: $monospace;
-}
-.language-plaintext{
-  font-family: $serif;
 }
