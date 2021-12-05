@@ -44,8 +44,8 @@ $base0d: mediumblue;      // function, method
 
 
 $serif      : Georgia;
-$sans-serif : "IBM Plex Mono";
-$monospace  : Consolas;
+$sans-serif : Roboto;
+$monospace  : "IBM Plex Mono", Consolas;
 
 $global-font-family : $sans-serif;
 $header-font-family : $sans-serif;
@@ -70,3 +70,8 @@ $type-size-8 : 0.40em;
 
 
 
+.highlight{
+  font-family: $monospace;
+}
+.language-plaintext{
+  font-family: $serif;
