@@ -63,6 +63,12 @@ $type-size-8 : 0.40em;
 
 
 
+.highlight{
+  font-family: $monospace;
+}
+
+
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -77,6 +83,3 @@ html {
 
 
 
-.highlight{
-  font-family: $monospace;
-}
