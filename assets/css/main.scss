@@ -44,11 +44,11 @@ $base0d: mediumblue;      // function, method
 
 
 $serif      : Georgia;
-$sans-serif : Roboto;
+$sans-serif : "IBM Plex Sans KR", Roboto;
 $monospace  : "IBM Plex Mono", Consolas;
 
-$global-font-family : $serif;
-$header-font-family : $serif;
+$global-font-family : $sans-serif;
+$header-font-family : $sans-serif;
 
 
 
